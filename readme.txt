@@ -1,5 +1,5 @@
-Building Effective Agents Cookbook
-Reference implementation for Building Effective Agents by Erik Schluntz and Barry Zhang.
+Building Effective Agents Cookbook :: Inspiration Anthropic blog published 12/19/24 on Agentic Routing
+ 
 
 This repository contains example minimal implementations of common agent workflows discussed in the blog:
 
