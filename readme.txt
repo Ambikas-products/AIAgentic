@@ -1,3 +1,12 @@
+Building Effective Agents Cookbook
+Reference implementation for Building Effective Agents by Erik Schluntz and Barry Zhang.
+
+This repository contains example minimal implementations of common agent workflows discussed in the blog:
+
+Basic Building Blocks
+Prompt Chaining
+Routing
+
 # AI Router Agent System
 
 A Python-based routing system that intelligently directs user queries to specialized AI agents based on the query's complexity and nature.
